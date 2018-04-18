@@ -1,7 +1,7 @@
 package com.Test.Steps;
 
-import com.Test.PageObjects.MenuPanel;
-import com.Test.PageObjects.SignUp;
+import com.Test.Objects.MenuPanel;
+import com.Test.Objects.SignUp;
 import com.Test.Utility.Support;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.When;

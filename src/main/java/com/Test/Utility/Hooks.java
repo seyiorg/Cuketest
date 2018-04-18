@@ -29,6 +29,7 @@ public class Hooks extends Support{
         switch (browser){
 
             case "firefox":
+                System.setProperty("webdriver.gecko.driver", "geckodriver/geckodriver");
                 driver = new FirefoxDriver();
                 break;
 

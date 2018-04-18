@@ -1,9 +1,8 @@
 package com.Test.Steps;
 
-import com.Test.PageObjects.SignUp;
-import com.Test.PageObjects.Snippet;
+import com.Test.Objects.SignUp;
+import com.Test.Objects.Snippet;
 import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
 
 /**
  * Created by olu on 25/05/2017.
